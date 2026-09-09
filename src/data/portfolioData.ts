@@ -88,7 +88,7 @@ export const PROJECTS: Project[] = [
     ],
     techStack: ["React.js", "Node.js", "Express.js", "MongoDB", "JWT"],
     githubUrl: "https://github.com/Renusridarla/team-collaboration-board",
-    liveUrl: "https://github.com/Renusridarla/team-collaboration-board",
+    liveUrl: "https://team-collaboration-board-eight.vercel.app/",
     image: "/projects/team-collaboration.jpg",
     badge: "Full-Stack MERN"
   },
@@ -124,7 +124,7 @@ export const PROJECTS: Project[] = [
     ],
     techStack: ["Python", "Cellular Automata", "Data Visualization"],
     githubUrl: "https://github.com/Renusridarla/v0-pest-spread-simulation",
-    liveUrl: "https://github.com/Renusridarla/v0-pest-spread-simulation",
+    liveUrl: "https://pest-control-prediction.vercel.app/",
     image: "/projects/pest-simulation.jpg",
     badge: "Computational Simulation"
   }
