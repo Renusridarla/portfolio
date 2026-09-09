@@ -107,7 +107,7 @@ export const PROJECTS: Project[] = [
     ],
     techStack: ["HTML", "CSS", "JavaScript", "React", "Node.js", "Express.js", "MongoDB"],
     githubUrl: "https://github.com/Renusridarla/Traverge",
-    liveUrl: "https://github.com/Renusridarla/Traverge",
+    liveUrl: "https://traverge.vercel.app/",
     image: "/projects/traverge.jpg",
     badge: "Smart Travel App"
   },

@@ -13,7 +13,7 @@ Personal portfolio website for **DARLA RENUSRI**, Computer Science Undergraduate
 - 🌐 **Live Portfolio**: [https://portfolio-ashen-iota-26.vercel.app/](https://portfolio-ashen-iota-26.vercel.app/)
 - 💼 **Team Collaboration Board**: [Live App](https://team-collaboration-board-eight.vercel.app/) | [GitHub Repository](https://github.com/Renusridarla/team-collaboration-board)
 - 🌾 **Pest Spread Prediction**: [Live App](https://pest-control-prediction.vercel.app/) | [GitHub Repository](https://github.com/Renusridarla/v0-pest-spread-simulation)
-- ✈️ **Traverge Travel Planner**: [GitHub Repository](https://github.com/Renusridarla/Traverge)
+- ✈️ **Traverge Travel Planner**: [Live App](https://traverge.vercel.app/) | [GitHub Repository](https://github.com/Renusridarla/Traverge)
 
 ---
 
