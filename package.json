@@ -1,17 +1,15 @@
 {
-  "name": "renusri-portfolio",
+  "name": "portfolio",
   "private": true,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "npx tsc && vite build",
-    "lint": "npx tsc",
+    "build": "vite build",
+    "lint": "tsc",
     "preview": "vite preview"
   },
   "dependencies": {
-    "@rolldown/pluginutils": "^1.0.1",
-    "@rollup/rollup-win32-x64-msvc": "^4.63.1",
     "canvas-confetti": "^1.9.4",
     "clsx": "^2.1.1",
     "framer-motion": "^12.4.10",
