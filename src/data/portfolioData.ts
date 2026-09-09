@@ -185,8 +185,8 @@ export const CODING_PROFILES: CodingProfile[] = [
   },
   {
     platform: "LeetCode",
-    username: "Renusri",
-    url: "https://leetcode.com/u/Renusri/",
+    username: "Renusri_26",
+    url: "https://leetcode.com/u/Renusri_26/",
     iconName: "Terminal",
     highlight: "300+ Problems Solved",
     color: "from-amber-500 to-purple-600"

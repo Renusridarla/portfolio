@@ -31,5 +31,5 @@ Personal portfolio website for **DARLA RENUSRI**, Computer Science Undergraduate
 - **Email**: `23l31a0548.viit.cse@gmail.com`
 - **Phone**: `+91 7569072550`
 - **LinkedIn**: [renusri-darla-a2a1682a2](https://www.linkedin.com/in/renusri-darla-a2a1682a2/)
-- **LeetCode**: [Renusri](https://leetcode.com/u/Renusri/)
+- **LeetCode**: [Renusri_26](https://leetcode.com/u/Renusri_26/)
 - **CodeChef**: [renu 2318](https://www.codechef.com/users/renu2318)
