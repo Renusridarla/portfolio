@@ -1,6 +1,6 @@
 # DARLA RENUSRI — Software Developer Portfolio
 
-![Portfolio Preview](/public/projects/team-collaboration.jpg)
+![Portfolio Preview](/public/projects/career-fit-ai.jpg)
 
 Live Website: **[https://portfolio-ashen-iota-26.vercel.app/](https://portfolio-ashen-iota-26.vercel.app/)**
 
@@ -11,9 +11,10 @@ Personal portfolio website for **DARLA RENUSRI**, Computer Science Undergraduate
 ## 🚀 Live Links & Projects
 
 - 🌐 **Live Portfolio**: [https://portfolio-ashen-iota-26.vercel.app/](https://portfolio-ashen-iota-26.vercel.app/)
+- 🤖 **CareerFit AI Platform**: [Live App](https://career-fit-ai-chi.vercel.app/) | [GitHub Repository](https://github.com/Renusridarla/Career_fit_ai)
 - 💼 **Team Collaboration Board**: [Live App](https://team-collaboration-board-eight.vercel.app/) | [GitHub Repository](https://github.com/Renusridarla/team-collaboration-board)
-- 🌾 **Pest Spread Prediction**: [Live App](https://pest-control-prediction.vercel.app/) | [GitHub Repository](https://github.com/Renusridarla/v0-pest-spread-simulation)
 - ✈️ **Traverge Travel Planner**: [Live App](https://traverge.vercel.app/) | [GitHub Repository](https://github.com/Renusridarla/Traverge)
+- 🌾 **Pest Spread Prediction**: [Live App](https://pest-control-prediction.vercel.app/) | [GitHub Repository](https://github.com/Renusridarla/v0-pest-spread-simulation)
 
 ---
 

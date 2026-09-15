@@ -72,6 +72,24 @@ export const SKILL_CATEGORIES: SkillCategory[] = [
 
 export const PROJECTS: Project[] = [
   {
+    id: "career-fit-ai",
+    title: "CareerFit AI – Career Guidance Platform",
+    subtitle: "AI-Powered Skill Alignment & Career Recommendations",
+    description: "Developed an AI-powered career guidance platform that analyzes user skills, resume profile, and career goals to deliver personalized career recommendations and skill gap insights.",
+    features: [
+      "AI Skill Alignment",
+      "Career Match Analytics",
+      "Skill Gap Analysis",
+      "Interactive Dashboard",
+      "Personalized Recommendations"
+    ],
+    techStack: ["React.js", "Node.js", "Express.js", "AI/ML", "MongoDB"],
+    githubUrl: "https://github.com/Renusridarla/Career_fit_ai",
+    liveUrl: "https://career-fit-ai-chi.vercel.app/",
+    image: "/projects/career-fit-ai.jpg",
+    badge: "AI Platform"
+  },
+  {
     id: "team-collaboration-board",
     title: "Team Collaboration Board",
     subtitle: "MERN Platform with Role-Based Access Control",
